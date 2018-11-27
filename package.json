@@ -1,7 +1,6 @@
 {
   "name": "hw_pubsub_webpack_instruments_start",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +10,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.12.2",
-    "webpack-cli": "^3.0.8"
-  }
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisjennings555/wk07_d02_instrumentshw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisjennings555/wk07_d02_instrumentshw/issues"
+  },
+  "homepage": "https://github.com/chrisjennings555/wk07_d02_instrumentshw#readme",
+  "description": ""
 }
